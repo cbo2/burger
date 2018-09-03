@@ -1,4 +1,4 @@
-use burgers_db;
+use hb5glyyje20ejbi4;
 INSERT INTO burgers (burger_name) VALUES ('Plain');
 INSERT INTO burgers (burger_name) VALUES ('Bacon, Egg, & Cheese');
 INSERT INTO burgers (burger_name, devoured) VALUES ('Elvis', true);
